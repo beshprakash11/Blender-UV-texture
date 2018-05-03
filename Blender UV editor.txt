@@ -1,0 +1,12 @@
+Step 1: Open blender
+Step 2: Uses default cube
+Step 3: Press TAB
+Step 4: Choose Materials
+Step 5: Choose texture
+Step 6: Click new than open texture location(Image location)
+Step 7: Select UV Editing
+Step 10: Select image
+Step 11: Export obj model
+Step 12: path mode "copy"
+step 13: Export obj
+step 14: Open Obj model with texture
